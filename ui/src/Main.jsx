@@ -2,7 +2,7 @@ import React from 'react';
 import { Switch, Route, Redirect } from 'react-router-dom';
 import MyProductList from './ProductList.jsx';
 import ProductView from './ProductView.jsx';
-import ProductEdit from './new.jsx';
+import ProductEdit from './NewProduct.jsx.jsx';
 
 import { Navbar, Nav, NavItem, Grid } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
